@@ -3,6 +3,7 @@
 **Project Name : PEMBUATAN WEBSITE PENJUALAN PRINCE ICE CREAM**
 
 **Team 2 Members and Roles**
+
 Reyner Jeremy Sebastian Sitohang - Project Manager  
 Davina Nayla Aisyah - System Analyst  
 Name 3 - UI/UX Designer  
