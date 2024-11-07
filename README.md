@@ -13,7 +13,7 @@ Muhammad Ramli - Programmer (Front-End/Back-End)
 Fajrin Alifian - Tester (Quality Assurance)  
 
 
-Proyek ini bertujuan untuk mengembangkan Sistem Manajemen Inventaris untuk laboratorium Universitas Gunadarma. Sistem ini memungkinkan staf untuk melacak, memantau, dan memperbarui item inventaris secara efisien. Fitur-fitur utama termasuk menambah, menghapus, dan memperbarui item, membuat laporan, dan antarmuka yang mudah digunakan.
+Proyek ini bertujuan untuk mengembangkan Sistem Pemesanan dan Administrasi untuk Prince Ice Cream. Sistem ini memungkinkan pemilik untuk memantau total pendapatan serta penjualan dan juga memantau stok ice cream secara efisien. Selain itu sistem ini memungkinkan pelanggan dapat melihat produk ice cream yang tersedia dan melakukan pemesanan dalam jumlah yang besar. Fitur-fitur utama termasuk sistem PO (Pre-Order) untuk reservasi pemesanan, monitoring stok dan juga transaksi penjualan di semua cabang serta pencatatan pendapatan pada setiap cabang.
 
 **Technologies Used**
 Programming Language: PHP,JavaScript
