@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Wq523uwp)
 
+Link Google Drive Presentasi Kelompok 2 : https://drive.google.com/file/d/1QIpDwxrBi76nMZajm7hq6836JJMhpv2p/view?usp=drive_link
+
 **Project Name : PEMBUATAN WEBSITE PEMESANAN DAN ADMINISTRASI PRINCE ICE CREAM**
 
 **Team 2 Members and Roles**
