@@ -17,7 +17,10 @@ Proyek ini bertujuan untuk mengembangkan Sistem Pemesanan dan Administrasi untuk
 
 **Technologies Used**
 Programming Language: PHP,JavaScript
+
 Framework: Laravel & React
+
 Database: MySQL
+
 
 Start : 11 October 2024
