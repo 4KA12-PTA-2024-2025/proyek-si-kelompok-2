@@ -2,6 +2,8 @@
 
 Link Google Drive Presentasi Kelompok 2 : https://drive.google.com/drive/folders/1--s5fa5NrZfwr87WLUEuSZGIDfR0X3c4?usp=drive_link
 
+Link Website Prince Ice Cream : https://princeicecream.store/
+
 **Project Name : PEMBUATAN WEBSITE PEMESANAN DAN ADMINISTRASI PRINCE ICE CREAM**
 
 **Team 2 Members and Roles**
