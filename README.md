@@ -15,7 +15,7 @@ Muhammad Ramli - Programmer (Front-End/Back-End)
 Fajrin Alifian - Tester (Quality Assurance)  
 
 
-Proyek ini bertujuan untuk mengembangkan Sistem Pemesanan dan Administrasi untuk Prince Ice Cream. Sistem ini memungkinkan pemilik untuk memantau total pendapatan serta penjualan dan juga memantau stok ice cream secara efisien. Selain itu sistem ini memungkinkan pelanggan dapat melihat produk ice cream yang tersedia dan melakukan pemesanan dalam jumlah yang besar. Fitur-fitur utama termasuk sistem PO (Pre-Order) untuk reservasi pemesanan, monitoring stok dan juga transaksi penjualan di semua cabang.
+Proyek ini bertujuan untuk mengembangkan Sistem Pemesanan dan Administrasi untuk Prince Ice Cream. Sistem ini memungkinkan pemilik untuk memantau total pendapatan serta penjualan dan juga memantau stok ice cream secara efisien. Selain itu sistem ini memungkinkan pelanggan dapat melihat produk ice cream yang tersedia dan melakukan pemesanan dalam jumlah yang besar. Fitur-fitur utama termasuk sistem PO (Pre-Order) untuk reservasi pemesanan, memantau total pendapatan dan juga transaksi penjualan di semua cabang.
 
 **Technologies Used**
 
